@@ -1,0 +1,8 @@
+modeler-merge-marker
+.mendix-cache/*
+MxGit.mpr.lock
+*.launch
+deployment/*
+packages/*
+releases/*
+MxGit.mpr.bak
