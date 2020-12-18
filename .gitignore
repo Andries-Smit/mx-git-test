@@ -6,3 +6,5 @@ deployment/*
 packages/*
 releases/*
 MxGit.mpr.bak
+.classpath
+.project
